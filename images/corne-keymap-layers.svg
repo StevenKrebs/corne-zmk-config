@@ -749,5 +749,5 @@
 <g transform="rotate(-24.0 689.4 3311.8)"><rect class="thumb" x="655.4" y="3257.8" rx="6" width="68" height="108.0"/></g>
 <g transform="rotate(-12.0 780.0 3314.6)"><rect class="thumb" x="746.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
 <g transform="rotate(0.0 872.0 3314.6)"><rect class="thumb" x="838.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
-<text class="legend" x="44" y="3516">⇧ Shift · ⌃ Control · ⌥ Option · ⌘ Command · ↳ transparent · blank = unbound.</text>
+<text class="legend" x="44" y="3516">⇧ Shift · ⌃ Control · ⌥ Option · ⌘ Command · ↳ transparent = next lower active layer · blank = unbound.</text>
 </svg>

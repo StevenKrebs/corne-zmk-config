@@ -767,5 +767,5 @@
 <text class="label" text-anchor="middle" x="822.0" y="3302.0">
 <tspan x="822.0" dy="0">↳</tspan>
 </text>
-<text class="legend" x="44" y="3516">⇧ Shift · ⌃ Control · ⌥ Option · ⌘ Command · ↳ transparent · blank = unbound.</text>
+<text class="legend" x="44" y="3516">⇧ Shift · ⌃ Control · ⌥ Option · ⌘ Command · ↳ transparent = next lower active layer · blank = unbound.</text>
 </svg>

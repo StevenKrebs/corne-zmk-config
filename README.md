@@ -17,7 +17,7 @@ Each branch retains its own board definitions, physical layout, editor metadata,
 
 ## Keymaps
 
-Each layer is drawn on its keyboard's staggered key geometry, including its thumb cluster. BASE, NUM, and SYM show keyboard legends; other layers retain source aliases, with modifiers displayed as glyphs (`⇧`, `⌃`, `⌥`, `⌘`). BASE dual-action keys show `tap / hold`. The `&lt` thumb bindings activate NUM (`1`), SYM (`2`), FUN (`3`), and NAV (`4`). `↳` means transparent (use the binding from BASE), and a blank key has no binding on that layer. GUI labels use macOS symbols; **GLYPH** mode swaps GUI and Ctrl for Windows.
+Each layer is drawn on its keyboard's staggered key geometry, including its thumb cluster. BASE, NUM, and SYM show keyboard legends; other layers retain source aliases, with modifiers displayed as glyphs (`⇧`, `⌃`, `⌥`, `⌘`). BASE dual-action keys show `tap / hold`. The `&lt` thumb bindings activate NUM (`1`), SYM (`2`), FUN (`3`), and NAV (`4`). `↳` means transparent: it uses the next lower active layer's binding, which may not be BASE. A blank key has no binding on that layer.
 
 ### Corne · 5-column
 
@@ -31,7 +31,7 @@ Each layer is drawn on its keyboard's staggered key geometry, including its thum
 
 ### macOS / Windows mode
 
-**GLYPH** is on the **SYS layer at the W position**, immediately left of **Smart Shift**. It switches both the display symbols and the keys sent to the host. The selected mode is saved immediately on the central half and restored after restarts or power loss. A keyboard with no saved mode defaults to macOS; flashing a settings-reset image clears this preference. Mode is selected manually and applies across Bluetooth profiles.
+**GLYPH** is on the **SYS layer at the W position**, immediately left of **Smart Shift**. It switches both the display symbols and the keys sent to the host. It selects how mode-specific keys are interpreted, including the screenshot, emoji, and lock shortcuts, and changes the GLOBE hold behavior. The selected mode is saved immediately on the central half and restored after restarts or power loss. A keyboard with no saved mode defaults to macOS; flashing a settings-reset image clears this preference. Mode is selected manually and applies across Bluetooth profiles.
 
 - Windows mode swaps Ctrl and GUI/Command, including modifiers inside ordinary key chords. Shift and Alt retain their roles.
 - The home-row S/L holds become Windows, while F/J become Ctrl. Letter taps retain their normal meanings.
@@ -39,7 +39,7 @@ Each layer is drawn on its keyboard's staggered key geometry, including its thum
 - The widget uses Option/Command symbols on macOS and Alt/Windows symbols on Windows. Windows Alt is the Option bitmap mirrored top to bottom.
 - The `fn` indicator appears only in macOS mode. In Windows mode, the Globe-position hold activates the existing Ctrl and Windows indicators together.
 
-The dedicated shortcuts select complete chords for the active mode:
+These special shortcuts send their complete chord for the selected GLYPH mode:
 
 | Behavior | Location | macOS | Windows |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ The dedicated shortcuts select complete chords for the active mode:
 | `smart_emojis` | FUN, Tab thumb position | Ctrl + Command + Space | Windows + period |
 | `smart_lock` | FUN + I | Ctrl + Command + Q | Windows + L |
 
-`screen_area` captures the active window on Windows; `screen_adj` opens Windows region capture. These behaviors retain the selected chord until release and bypass the general Ctrl/GUI swap.
+`screen_area` captures the active window on Windows; `screen_adj` opens Windows region capture. These behaviors retain the selected chord until release and use their mode-specific mapping rather than the general Ctrl/GUI swap for ordinary chords.
 
 ### Typing and layers
 
