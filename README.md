@@ -8,10 +8,10 @@ Both firmwares are based on a custom **QWERTY version of [Miryoku](https://githu
 
 ## Firmware variants
 
-| Branch | Keyboard | Keymap | v1.0.5 firmware |
+| Branch | Keyboard | Keymap | Firmware |
 | --- | --- | --- | --- |
 | [`corne-5col`](https://github.com/StevenKrebs/zmk-config/tree/corne-5col) | Keebart Corne Choc Pro BT, five columns | [`corne_choc_pro_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/corne-5col/config/corne_choc_pro_5col.keymap) | [Download ZIP](https://github.com/StevenKrebs/zmk-config/releases/download/corne-5col-v1.0.5/corne-5col-v1.0.5.zip) |
-| [`piantor-5col`](https://github.com/StevenKrebs/zmk-config/tree/piantor-5col) | Keebart Piantor Pro BT, five columns | [`piantor_pro_bt_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/piantor-5col/config/piantor_pro_bt_5col.keymap) | [Download ZIP](https://github.com/StevenKrebs/zmk-config/releases/download/piantor-5col-v1.0.5/piantor-5col-v1.0.5.zip) |
+| [`piantor-5col`](https://github.com/StevenKrebs/zmk-config/tree/piantor-5col) | Keebart Piantor Pro BT, five columns | [`piantor_pro_bt_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/piantor-5col/config/piantor_pro_bt_5col.keymap) | [Download ZIP](https://github.com/StevenKrebs/zmk-config/releases/download/piantor-5col-v1.0.6/piantor-5col-v1.0.6.zip) |
 
 Each branch retains its own board definitions, physical layout, editor metadata, and firmware targets. Use the firmware for your exact keyboard and half. Both builds use ZMK `v0.3`.
 
@@ -65,7 +65,7 @@ These special shortcuts send their complete chord for the selected OS mode:
 - Bilateral home-row hold-tap modifiers (THRM), based on [urob's timeless home-row mods](https://github.com/urob/zmk-config): balanced flavor, 280 ms tapping term, 175 ms quick tap, 150 ms prior-idle requirement, and opposite-hand/thumb hold triggers evaluated on release.
 - Thumb taps provide Tab, Esc, Space, Return, Backspace, and Delete. Their holds provide modifier chords or layer access.
 - `meta` taps Tab; holding it sends Shift + Command on macOS and Shift + Ctrl on Windows. `hyper` taps Escape; holding it sends Ctrl + Alt + Command on macOS and Ctrl + Alt on Windows.
-- Thumb combos toggle NAV (positions 32 + 33) and SYS (31 + 34). Key positions are zero-based.
+- Thumb combos toggle NAV (positions 31 + 34) and SYS (32 + 33). Key positions are zero-based.
 - **Smart Shift** supports sentence capitalization, punctuation handling, backspace state recovery, and a manual Shift opt-out. Toggle it from SYS; its enabled state is saved on the central half and restored after power cycles.
 - **Caps Logic** taps toggle Caps Word; holding sends Caps Lock. The widget tracks logical Caps Word state and locally inferred Caps Lock activity.
 
@@ -81,7 +81,7 @@ These special shortcuts send their complete chord for the selected OS mode:
 
 Each firmware workflow builds commits pushed to its matching branch, pull requests, or manual runs. Tag pushes do not start duplicate builds. To build a change, commit and push it to the matching firmware branch. Open [Actions](https://github.com/StevenKrebs/zmk-config/actions) and select the **Build ZMK firmware** run for that branch. The documentation-only `main` branch has no build workflow.
 
-The [Corne v1.0.5 release](https://github.com/StevenKrebs/zmk-config/releases/tag/corne-5col-v1.0.5) and [Piantor v1.0.5 release](https://github.com/StevenKrebs/zmk-config/releases/tag/piantor-5col-v1.0.5) each contain one ZIP with left and right firmware plus separate left and right **settings-reset** images. Choose the matching board and half. Settings-reset images clear stored settings, including per-profile OS mode; they are maintenance images, not the normal keyboard firmware.
+The [Corne v1.0.5 release](https://github.com/StevenKrebs/zmk-config/releases/tag/corne-5col-v1.0.5) and [Piantor v1.0.6 release](https://github.com/StevenKrebs/zmk-config/releases/tag/piantor-5col-v1.0.6) each contain one ZIP with left and right firmware plus separate left and right **settings-reset** images. Choose the matching board and half. Settings-reset images clear stored settings, including per-profile OS mode; they are maintenance images, not the normal keyboard firmware.
 
 Each run also provides the merged `firmware` artifact for test builds without a release.
 
