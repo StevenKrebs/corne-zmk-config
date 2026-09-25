@@ -67,7 +67,7 @@
 <g transform="rotate(0.0 426.0 295.3)"><rect class="key" x="392.0" y="259.3" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="426.0" y="293.3">
 <tspan x="426.0" dy="0">G /</tspan>
-<tspan x="426.0" dy="12">GLOBE</tspan>
+<tspan x="426.0" dy="12">🌐︎</tspan>
 </text>
 <g transform="rotate(0.0 714.0 295.3)"><rect class="key" x="680.0" y="259.3" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="714.0" y="299.3">
@@ -131,31 +131,30 @@
 </text>
 <g transform="rotate(0.0 268.0 474.6)"><rect class="thumb" x="234.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="268.0" y="478.6">
-<tspan x="268.0" dy="0">TAB / ⇧⌘</tspan>
+<tspan x="268.0" dy="0">⇥ / ⇧⌘</tspan>
 </text>
 <g transform="rotate(12.0 360.0 474.6)"><rect class="thumb" x="326.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="360.0" y="472.6">
-<tspan x="360.0" dy="0">ESC /</tspan>
+<tspan x="360.0" dy="0">⎋ /</tspan>
 <tspan x="360.0" dy="12">⌃⌥⌘</tspan>
 </text>
 <g transform="rotate(24.0 450.6 471.8)"><rect class="thumb" x="416.6" y="417.8" rx="6" width="68" height="108.0"/></g>
 <text class="label" text-anchor="middle" x="450.6" y="469.8">
-<tspan x="450.6" dy="0">SPACE /</tspan>
+<tspan x="450.6" dy="0">␣ /</tspan>
 <tspan x="450.6" dy="12">NAV</tspan>
 </text>
 <g transform="rotate(-24.0 689.4 471.8)"><rect class="thumb" x="655.4" y="417.8" rx="6" width="68" height="108.0"/></g>
 <text class="label" text-anchor="middle" x="689.4" y="469.8">
-<tspan x="689.4" dy="0">RETURN /</tspan>
+<tspan x="689.4" dy="0">↵ /</tspan>
 <tspan x="689.4" dy="12">NUM</tspan>
 </text>
 <g transform="rotate(-12.0 780.0 474.6)"><rect class="thumb" x="746.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="780.0" y="466.6">
-<tspan x="780.0" dy="0">BACKSPAC</tspan>
-<tspan x="780.0" dy="12">E / SYM</tspan>
+<tspan x="780.0" dy="0">⌫ / SYM</tspan>
 </text>
 <g transform="rotate(0.0 872.0 474.6)"><rect class="thumb" x="838.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="872.0" y="472.6">
-<tspan x="872.0" dy="0">DELETE /</tspan>
+<tspan x="872.0" dy="0">⌦ /</tspan>
 <tspan x="872.0" dy="12">FUN</tspan>
 </text>
 <rect class="card" x="20" y="638" rx="14" width="1100" height="550"/>
@@ -507,12 +506,12 @@
 <g transform="rotate(0.0 138.0 2504.6)"><rect class="key" x="104.0" y="2468.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="138.0" y="2502.6">
 <tspan x="138.0" dy="0">LG(</tspan>
-<tspan x="138.0" dy="12">BACKSPACE)</tspan>
+<tspan x="138.0" dy="12">⌫)</tspan>
 </text>
 <g transform="rotate(0.0 210.0 2486.6)"><rect class="key" x="176.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="210.0" y="2490.6">
 <tspan x="210.0" dy="0">LA(</tspan>
-<tspan x="210.0" dy="12">BACKSPACE)</tspan>
+<tspan x="210.0" dy="12">⌫)</tspan>
 </text>
 <g transform="rotate(0.0 282.0 2478.0)"><rect class="key" x="248.0" y="2442.0" rx="6" width="68" height="72.0"/></g>
 <g transform="rotate(0.0 354.0 2486.6)"><rect class="key" x="320.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
@@ -544,7 +543,7 @@
 </text>
 <g transform="rotate(0.0 426.0 2567.3)"><rect class="key" x="392.0" y="2531.3" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="426.0" y="2571.3">
-<tspan x="426.0" dy="0">GLOBE</tspan>
+<tspan x="426.0" dy="0">🌐︎</tspan>
 </text>
 <g transform="rotate(0.0 714.0 2567.3)"><rect class="key" x="680.0" y="2531.3" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="714.0" y="2571.3">
@@ -605,28 +604,27 @@
 </text>
 <g transform="rotate(0.0 268.0 2746.6)"><rect class="thumb" x="234.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="268.0" y="2750.6">
-<tspan x="268.0" dy="0">TAB</tspan>
+<tspan x="268.0" dy="0">⇥</tspan>
 </text>
 <g transform="rotate(12.0 360.0 2746.6)"><rect class="thumb" x="326.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="360.0" y="2750.6">
-<tspan x="360.0" dy="0">ESC</tspan>
+<tspan x="360.0" dy="0">⎋</tspan>
 </text>
 <g transform="rotate(24.0 450.6 2743.8)"><rect class="thumb" x="416.6" y="2689.8" rx="6" width="68" height="108.0"/></g>
 <text class="label" text-anchor="middle" x="450.6" y="2747.8">
-<tspan x="450.6" dy="0">SPACE</tspan>
+<tspan x="450.6" dy="0">␣</tspan>
 </text>
 <g transform="rotate(-24.0 689.4 2743.8)"><rect class="thumb" x="655.4" y="2689.8" rx="6" width="68" height="108.0"/></g>
 <text class="label" text-anchor="middle" x="689.4" y="2747.8">
-<tspan x="689.4" dy="0">RETURN</tspan>
+<tspan x="689.4" dy="0">↵</tspan>
 </text>
 <g transform="rotate(-12.0 780.0 2746.6)"><rect class="thumb" x="746.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="780.0" y="2744.6">
-<tspan x="780.0" dy="0">BACKSPAC</tspan>
-<tspan x="780.0" dy="12">E</tspan>
+<tspan x="780.0" dy="0">⌫</tspan>
 </text>
 <g transform="rotate(0.0 872.0 2746.6)"><rect class="thumb" x="838.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="872.0" y="2750.6">
-<tspan x="872.0" dy="0">DELETE</tspan>
+<tspan x="872.0" dy="0">⌦</tspan>
 </text>
 <rect class="card" x="20" y="2910" rx="14" width="1100" height="550"/>
 <text class="layer" x="44" y="2942">SYS</text>

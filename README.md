@@ -17,7 +17,7 @@ Each branch retains its own board definitions, physical layout, editor metadata,
 
 ## Keymaps
 
-Each layer is drawn on its keyboard's staggered key geometry, including its thumb cluster. BASE, NUM, and SYM show keyboard legends; other layers retain source aliases, with modifiers displayed as glyphs (`⇧`, `⌃`, `⌥`, `⌘`). BASE dual-action keys show `tap / hold`. Layer-access thumb holds are labeled with the layer they activate: NUM, SYM, FUN, or NAV. `↳` means transparent: it uses the next lower active layer's binding, which may not be BASE. A blank key has no binding on that layer.
+Each layer is drawn on its keyboard's staggered key geometry, including its thumb cluster. BASE, NUM, and SYM show keyboard legends; other layers retain source aliases, with modifiers displayed as glyphs (`⇧`, `⌃`, `⌥`, `⌘`). Functional key glyphs are `⇥` Tab, `⎋` Escape, `␣` Space, `↵` Return, `⌫` Backspace, and `⌦` Delete. The GLOBE key uses Apple’s [Globe key symbol](https://support.apple.com/en-my/102650) (`🌐`). BASE dual-action keys show `tap / hold`. Layer-access thumb holds are labeled with the layer they activate: NUM, SYM, FUN, or NAV. `↳` means transparent: it uses the next lower active layer's binding, which may not be BASE. A blank key has no binding on that layer.
 
 ### Corne · 5-column
 
