@@ -131,7 +131,7 @@
 </text>
 <g transform="rotate(0.0 268.0 474.6)"><rect class="thumb" x="234.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="268.0" y="478.6">
-<tspan x="268.0" dy="0">TAB / ⌥⌘</tspan>
+<tspan x="268.0" dy="0">TAB / ⇧⌘</tspan>
 </text>
 <g transform="rotate(12.0 360.0 474.6)"><rect class="thumb" x="326.0" y="438.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="360.0" y="472.6">
@@ -507,12 +507,13 @@
 <text class="layer" x="44" y="2374">NAV</text>
 <g transform="rotate(0.0 138.0 2504.6)"><rect class="key" x="104.0" y="2468.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="138.0" y="2502.6">
-<tspan x="138.0" dy="0">BACKSPAC</tspan>
-<tspan x="138.0" dy="12">E</tspan>
+<tspan x="138.0" dy="0">LG(</tspan>
+<tspan x="138.0" dy="12">BACKSPACE)</tspan>
 </text>
 <g transform="rotate(0.0 210.0 2486.6)"><rect class="key" x="176.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="210.0" y="2490.6">
-<tspan x="210.0" dy="0">DELETE</tspan>
+<tspan x="210.0" dy="0">LA(</tspan>
+<tspan x="210.0" dy="12">BACKSPACE)</tspan>
 </text>
 <g transform="rotate(0.0 282.0 2478.0)"><rect class="key" x="248.0" y="2442.0" rx="6" width="68" height="72.0"/></g>
 <g transform="rotate(0.0 354.0 2486.6)"><rect class="key" x="320.0" y="2450.6" rx="6" width="68" height="72.0"/></g>

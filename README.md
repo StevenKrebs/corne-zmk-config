@@ -56,9 +56,9 @@ These special shortcuts send their complete chord for the selected GLYPH mode:
 - Six layers: **BASE, NUM, SYM, FUN, NAV, SYS**, covering typing, numbers, symbols, function/media keys, navigation, and keyboard controls.
 - Bilateral home-row hold-tap modifiers (THRM), based on [urob's timeless home-row mods](https://github.com/urob/zmk-config): balanced flavor, 280 ms tapping term, 175 ms quick tap, 150 ms prior-idle requirement, and opposite-hand/thumb hold triggers evaluated on release.
 - Thumb taps provide Tab, Esc, Space, Return, Backspace, and Delete. Their holds provide modifier chords or layer access.
-- Tab hold sends Alt + Command on macOS and Alt + Ctrl on Windows. Esc hold sends Alt + Ctrl + Command/Windows in either mode.
+- Tab hold sends Shift + Command on macOS and Shift + Ctrl on Windows. Esc hold sends Alt + Ctrl + Command/Windows in either mode.
 - Thumb combos toggle NAV (positions 32 + 33) and SYS (31 + 34). Key positions are zero-based.
-- **Smart Shift** supports sentence capitalization, punctuation handling, backspace state recovery, and a manual Shift opt-out. Toggle it from SYS.
+- **Smart Shift** supports sentence capitalization, punctuation handling, backspace state recovery, and a manual Shift opt-out. Toggle it from SYS; its enabled state is saved on the central half and restored after power cycles.
 - **Caps Logic** taps toggle Caps Word; holding sends Caps Lock. The widget tracks logical Caps Word state and locally inferred Caps Lock activity.
 
 ### Display, connectivity, and controls
