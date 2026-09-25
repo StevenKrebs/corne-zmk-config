@@ -79,7 +79,7 @@ These special shortcuts send their complete chord for the selected OS mode:
 
 ## Build and download
 
-Firmware branches build on pushes and pull requests unless CI is explicitly skipped. To build a change, commit and push it to the matching firmware branch. Open [Actions](https://github.com/StevenKrebs/zmk-config/actions) and select the **Build ZMK firmware** run for that branch. The documentation-only `main` branch has no build workflow.
+Each firmware workflow builds commits pushed to its matching branch, pull requests, or manual runs. Tag pushes do not start duplicate builds. To build a change, commit and push it to the matching firmware branch. Open [Actions](https://github.com/StevenKrebs/zmk-config/actions) and select the **Build ZMK firmware** run for that branch. The documentation-only `main` branch has no build workflow.
 
 Each run produces left and right firmware with the Sharp MIP shield, plus separate left and right **settings-reset** images. Download the merged firmware artifact from the successful run and select the matching board and half. Settings-reset images clear stored settings; they are maintenance images, not the normal keyboard firmware.
 
