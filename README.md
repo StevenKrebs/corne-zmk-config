@@ -8,10 +8,10 @@ Both firmwares are based on a custom **QWERTY version of [Miryoku](https://githu
 
 ## Firmware variants
 
-| Branch | Keyboard | Keymap |
-| --- | --- | --- |
-| [`corne-5col`](https://github.com/StevenKrebs/zmk-config/tree/corne-5col) | Keebart Corne Choc Pro BT, five columns | [`corne_choc_pro_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/corne-5col/config/corne_choc_pro_5col.keymap) |
-| [`piantor-5col`](https://github.com/StevenKrebs/zmk-config/tree/piantor-5col) | Keebart Piantor Pro BT, five columns | [`piantor_pro_bt_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/piantor-5col/config/piantor_pro_bt_5col.keymap) |
+| Branch | Keyboard | Keymap | v1.0.5 firmware |
+| --- | --- | --- | --- |
+| [`corne-5col`](https://github.com/StevenKrebs/zmk-config/tree/corne-5col) | Keebart Corne Choc Pro BT, five columns | [`corne_choc_pro_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/corne-5col/config/corne_choc_pro_5col.keymap) | [Download ZIP](https://github.com/StevenKrebs/zmk-config/releases/download/corne-5col-v1.0.5/corne-5col-v1.0.5.zip) |
+| [`piantor-5col`](https://github.com/StevenKrebs/zmk-config/tree/piantor-5col) | Keebart Piantor Pro BT, five columns | [`piantor_pro_bt_5col.keymap`](https://github.com/StevenKrebs/zmk-config/blob/piantor-5col/config/piantor_pro_bt_5col.keymap) | [Download ZIP](https://github.com/StevenKrebs/zmk-config/releases/download/piantor-5col-v1.0.5/piantor-5col-v1.0.5.zip) |
 
 Each branch retains its own board definitions, physical layout, editor metadata, and firmware targets. Use the firmware for your exact keyboard and half. Both builds use ZMK `v0.3`.
 
@@ -81,7 +81,9 @@ These special shortcuts send their complete chord for the selected OS mode:
 
 Each firmware workflow builds commits pushed to its matching branch, pull requests, or manual runs. Tag pushes do not start duplicate builds. To build a change, commit and push it to the matching firmware branch. Open [Actions](https://github.com/StevenKrebs/zmk-config/actions) and select the **Build ZMK firmware** run for that branch. The documentation-only `main` branch has no build workflow.
 
-Each run produces left and right firmware with the Sharp MIP shield, plus separate left and right **settings-reset** images. Download the merged firmware artifact from the successful run and select the matching board and half. Settings-reset images clear stored settings; they are maintenance images, not the normal keyboard firmware.
+The [Corne v1.0.5 release](https://github.com/StevenKrebs/zmk-config/releases/tag/corne-5col-v1.0.5) and [Piantor v1.0.5 release](https://github.com/StevenKrebs/zmk-config/releases/tag/piantor-5col-v1.0.5) each contain one ZIP with left and right firmware plus separate left and right **settings-reset** images. Choose the matching board and half. Settings-reset images clear stored settings, including per-profile OS mode; they are maintenance images, not the normal keyboard firmware.
+
+Each run also provides the merged `firmware` artifact for test builds without a release.
 
 ## Editing
 
