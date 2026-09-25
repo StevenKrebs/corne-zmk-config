@@ -163,13 +163,13 @@
 
         sys_layer {
             bindings = <&tog 5>;
-            key-positions = <31 34>;
+            key-positions = <32 33>;
             layers = <0 5>;
         };
 
         nav_layer {
             bindings = <&tog 4>;
-            key-positions = <32 33>;
+            key-positions = <31 34>;
         };
     };
 
