@@ -37,7 +37,7 @@ Each layer is drawn on its keyboard's staggered key geometry, including its thum
 
 ### macOS / Windows mode
 
-**GLYPH** is on the **SYS layer at the W position**, immediately left of **Smart Shift**. It switches both the display symbols and the keys sent to the host. It selects how mode-specific keys are interpreted, including the screenshot, emoji, and lock shortcuts, and changes the GLOBE hold behavior. The selected mode is saved immediately on the central half and restored after restarts or power loss. A keyboard with no saved mode defaults to macOS; flashing a settings-reset image clears this preference. Mode is selected manually and applies across Bluetooth profiles.
+**OS** is on the **SYS layer at the W position**, immediately left of **Smart Shift**. It switches both the display symbols and the keys sent to the host. It selects how mode-specific keys are interpreted, including the screenshot, emoji, and lock shortcuts, and changes the GLOBE hold behavior. The selected mode is saved immediately on the central half and restored after restarts or power loss. A keyboard with no saved mode defaults to macOS; flashing a settings-reset image clears this preference. Mode is selected manually and applies across Bluetooth profiles.
 
 - Windows mode swaps Ctrl and GUI/Command, including modifiers inside ordinary key chords. Shift and Alt retain their roles.
 - The home-row S/L holds become Windows, while F/J become Ctrl. Letter taps retain their normal meanings.
@@ -45,7 +45,7 @@ Each layer is drawn on its keyboard's staggered key geometry, including its thum
 - The widget uses Option/Command symbols on macOS and Alt/Windows symbols on Windows. Windows Alt is the Option bitmap mirrored top to bottom.
 - The `fn` indicator appears only in macOS mode. In Windows mode, the Globe-position hold activates the existing Ctrl and Windows indicators together.
 
-These special shortcuts send their complete chord for the selected GLYPH mode:
+These special shortcuts send their complete chord for the selected OS mode:
 
 | Behavior | Location | macOS | Windows |
 | --- | --- | --- | --- |
