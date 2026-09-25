@@ -1,0 +1,753 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="3540" viewBox="0 0 1140 3540">
+<defs><style>
+      .bg{fill:#f4f6f8}.card{fill:#fff;stroke:#cbd3dc;stroke-width:2}.key{fill:#fdfefe;stroke:#536477;stroke-width:2}.thumb{fill:#edf4fa;stroke:#536477;stroke-width:2}
+      .title{font:700 30px system-ui,sans-serif;fill:#17212d}.sub{font:15px system-ui,sans-serif;fill:#536477}.layer{font:700 20px system-ui,sans-serif;fill:#1261a0}.legend{font:14px system-ui,sans-serif;fill:#34475a}.label{font:600 10px system-ui,sans-serif;fill:#17212d}
+      </style></defs>
+<rect class="bg" width="1140" height="3540"/>
+<text class="title" x="44" y="40">CORNE · CHOC PRO BT · 5×3+3</text>
+<text class="sub" x="44" y="62">BASE, NUM and SYM show key labels; other layers retain keymap aliases.</text>
+<rect class="card" x="20" y="70" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="102">BASE</text>
+<g transform="rotate(0.0 138.0 232.6)"><rect class="key" x="104.0" y="196.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="236.6">
+<tspan x="138.0" dy="0">Q</tspan>
+</text>
+<g transform="rotate(0.0 210.0 214.6)"><rect class="key" x="176.0" y="178.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="218.6">
+<tspan x="210.0" dy="0">W</tspan>
+</text>
+<g transform="rotate(0.0 282.0 206.0)"><rect class="key" x="248.0" y="170.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="210.0">
+<tspan x="282.0" dy="0">E</tspan>
+</text>
+<g transform="rotate(0.0 354.0 214.6)"><rect class="key" x="320.0" y="178.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="218.6">
+<tspan x="354.0" dy="0">R</tspan>
+</text>
+<g transform="rotate(0.0 426.0 223.3)"><rect class="key" x="392.0" y="187.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="227.3">
+<tspan x="426.0" dy="0">T</tspan>
+</text>
+<g transform="rotate(0.0 714.0 223.3)"><rect class="key" x="680.0" y="187.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="227.3">
+<tspan x="714.0" dy="0">Y</tspan>
+</text>
+<g transform="rotate(0.0 786.0 214.6)"><rect class="key" x="752.0" y="178.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="218.6">
+<tspan x="786.0" dy="0">U</tspan>
+</text>
+<g transform="rotate(0.0 858.0 206.0)"><rect class="key" x="824.0" y="170.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="210.0">
+<tspan x="858.0" dy="0">I</tspan>
+</text>
+<g transform="rotate(0.0 930.0 214.6)"><rect class="key" x="896.0" y="178.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="218.6">
+<tspan x="930.0" dy="0">O</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 232.6)"><rect class="key" x="968.0" y="196.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="236.6">
+<tspan x="1002.0" dy="0">P</tspan>
+</text>
+<g transform="rotate(0.0 138.0 304.6)"><rect class="key" x="104.0" y="268.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="308.6">
+<tspan x="138.0" dy="0">A / ⇧</tspan>
+</text>
+<g transform="rotate(0.0 210.0 286.6)"><rect class="key" x="176.0" y="250.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="290.6">
+<tspan x="210.0" dy="0">S / ⌃</tspan>
+</text>
+<g transform="rotate(0.0 282.0 278.0)"><rect class="key" x="248.0" y="242.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="282.0">
+<tspan x="282.0" dy="0">D / ⌥</tspan>
+</text>
+<g transform="rotate(0.0 354.0 286.6)"><rect class="key" x="320.0" y="250.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="290.6">
+<tspan x="354.0" dy="0">F / ⌘</tspan>
+</text>
+<g transform="rotate(0.0 426.0 295.3)"><rect class="key" x="392.0" y="259.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="293.3">
+<tspan x="426.0" dy="0">G /</tspan>
+<tspan x="426.0" dy="12">GLOBE</tspan>
+</text>
+<g transform="rotate(0.0 714.0 295.3)"><rect class="key" x="680.0" y="259.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="299.3">
+<tspan x="714.0" dy="0">H</tspan>
+</text>
+<g transform="rotate(0.0 786.0 286.6)"><rect class="key" x="752.0" y="250.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="290.6">
+<tspan x="786.0" dy="0">J / ⌘</tspan>
+</text>
+<g transform="rotate(0.0 858.0 278.0)"><rect class="key" x="824.0" y="242.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="282.0">
+<tspan x="858.0" dy="0">K / ⌥</tspan>
+</text>
+<g transform="rotate(0.0 930.0 286.6)"><rect class="key" x="896.0" y="250.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="290.6">
+<tspan x="930.0" dy="0">L / ⌃</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 304.6)"><rect class="key" x="968.0" y="268.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="308.6">
+<tspan x="1002.0" dy="0">&#x27; / ⇧</tspan>
+</text>
+<g transform="rotate(0.0 138.0 376.6)"><rect class="key" x="104.0" y="340.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="380.6">
+<tspan x="138.0" dy="0">Z</tspan>
+</text>
+<g transform="rotate(0.0 210.0 358.6)"><rect class="key" x="176.0" y="322.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="362.6">
+<tspan x="210.0" dy="0">X</tspan>
+</text>
+<g transform="rotate(0.0 282.0 350.0)"><rect class="key" x="248.0" y="314.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="354.0">
+<tspan x="282.0" dy="0">C</tspan>
+</text>
+<g transform="rotate(0.0 354.0 358.6)"><rect class="key" x="320.0" y="322.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="362.6">
+<tspan x="354.0" dy="0">V</tspan>
+</text>
+<g transform="rotate(0.0 426.0 367.3)"><rect class="key" x="392.0" y="331.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="371.3">
+<tspan x="426.0" dy="0">B</tspan>
+</text>
+<g transform="rotate(0.0 714.0 367.3)"><rect class="key" x="680.0" y="331.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="371.3">
+<tspan x="714.0" dy="0">N</tspan>
+</text>
+<g transform="rotate(0.0 786.0 358.6)"><rect class="key" x="752.0" y="322.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="362.6">
+<tspan x="786.0" dy="0">M</tspan>
+</text>
+<g transform="rotate(0.0 858.0 350.0)"><rect class="key" x="824.0" y="314.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="354.0">
+<tspan x="858.0" dy="0">,</tspan>
+</text>
+<g transform="rotate(0.0 930.0 358.6)"><rect class="key" x="896.0" y="322.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="362.6">
+<tspan x="930.0" dy="0">.</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 376.6)"><rect class="key" x="968.0" y="340.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="380.6">
+<tspan x="1002.0" dy="0">/</tspan>
+</text>
+<g transform="rotate(0.0 268.0 474.6)"><rect class="thumb" x="234.0" y="438.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="268.0" y="478.6">
+<tspan x="268.0" dy="0">TAB / ⌥⌘</tspan>
+</text>
+<g transform="rotate(12.0 360.0 474.6)"><rect class="thumb" x="326.0" y="438.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="360.0" y="472.6">
+<tspan x="360.0" dy="0">ESC /</tspan>
+<tspan x="360.0" dy="12">⌥⌃⌘</tspan>
+</text>
+<g transform="rotate(24.0 450.6 471.8)"><rect class="thumb" x="416.6" y="417.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="450.6" y="469.8">
+<tspan x="450.6" dy="0">SPACE /</tspan>
+<tspan x="450.6" dy="12">&amp;lt 4</tspan>
+</text>
+<g transform="rotate(-24.0 689.4 471.8)"><rect class="thumb" x="655.4" y="417.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="689.4" y="469.8">
+<tspan x="689.4" dy="0">RETURN /</tspan>
+<tspan x="689.4" dy="12">&amp;lt 1</tspan>
+</text>
+<g transform="rotate(-12.0 780.0 474.6)"><rect class="thumb" x="746.0" y="438.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="780.0" y="466.6">
+<tspan x="780.0" dy="0">BACKSPAC</tspan>
+<tspan x="780.0" dy="12">E / &amp;lt</tspan>
+<tspan x="780.0" dy="12">2</tspan>
+</text>
+<g transform="rotate(0.0 872.0 474.6)"><rect class="thumb" x="838.0" y="438.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="872.0" y="472.6">
+<tspan x="872.0" dy="0">DELETE /</tspan>
+<tspan x="872.0" dy="12">&amp;lt 3</tspan>
+</text>
+<rect class="card" x="20" y="638" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="670">NUM</text>
+<g transform="rotate(0.0 138.0 800.6)"><rect class="key" x="104.0" y="764.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="804.6">
+<tspan x="138.0" dy="0">[</tspan>
+</text>
+<g transform="rotate(0.0 210.0 782.6)"><rect class="key" x="176.0" y="746.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="786.6">
+<tspan x="210.0" dy="0">7</tspan>
+</text>
+<g transform="rotate(0.0 282.0 774.0)"><rect class="key" x="248.0" y="738.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="778.0">
+<tspan x="282.0" dy="0">8</tspan>
+</text>
+<g transform="rotate(0.0 354.0 782.6)"><rect class="key" x="320.0" y="746.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="786.6">
+<tspan x="354.0" dy="0">9</tspan>
+</text>
+<g transform="rotate(0.0 426.0 791.3)"><rect class="key" x="392.0" y="755.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="795.3">
+<tspan x="426.0" dy="0">]</tspan>
+</text>
+<g transform="rotate(0.0 714.0 791.3)"><rect class="key" x="680.0" y="755.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 782.6)"><rect class="key" x="752.0" y="746.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 858.0 774.0)"><rect class="key" x="824.0" y="738.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 930.0 782.6)"><rect class="key" x="896.0" y="746.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 800.6)"><rect class="key" x="968.0" y="764.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 872.6)"><rect class="key" x="104.0" y="836.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="876.6">
+<tspan x="138.0" dy="0">;</tspan>
+</text>
+<g transform="rotate(0.0 210.0 854.6)"><rect class="key" x="176.0" y="818.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="858.6">
+<tspan x="210.0" dy="0">4</tspan>
+</text>
+<g transform="rotate(0.0 282.0 846.0)"><rect class="key" x="248.0" y="810.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="850.0">
+<tspan x="282.0" dy="0">5</tspan>
+</text>
+<g transform="rotate(0.0 354.0 854.6)"><rect class="key" x="320.0" y="818.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="858.6">
+<tspan x="354.0" dy="0">6</tspan>
+</text>
+<g transform="rotate(0.0 426.0 863.3)"><rect class="key" x="392.0" y="827.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="867.3">
+<tspan x="426.0" dy="0">=</tspan>
+</text>
+<g transform="rotate(0.0 714.0 863.3)"><rect class="key" x="680.0" y="827.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 854.6)"><rect class="key" x="752.0" y="818.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="858.6">
+<tspan x="786.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 858.0 846.0)"><rect class="key" x="824.0" y="810.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="850.0">
+<tspan x="858.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 930.0 854.6)"><rect class="key" x="896.0" y="818.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="858.6">
+<tspan x="930.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 872.6)"><rect class="key" x="968.0" y="836.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="876.6">
+<tspan x="1002.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 138.0 944.6)"><rect class="key" x="104.0" y="908.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="948.6">
+<tspan x="138.0" dy="0">`</tspan>
+</text>
+<g transform="rotate(0.0 210.0 926.6)"><rect class="key" x="176.0" y="890.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="930.6">
+<tspan x="210.0" dy="0">1</tspan>
+</text>
+<g transform="rotate(0.0 282.0 918.0)"><rect class="key" x="248.0" y="882.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="922.0">
+<tspan x="282.0" dy="0">2</tspan>
+</text>
+<g transform="rotate(0.0 354.0 926.6)"><rect class="key" x="320.0" y="890.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="930.6">
+<tspan x="354.0" dy="0">3</tspan>
+</text>
+<g transform="rotate(0.0 426.0 935.3)"><rect class="key" x="392.0" y="899.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="939.3">
+<tspan x="426.0" dy="0">\</tspan>
+</text>
+<g transform="rotate(0.0 714.0 935.3)"><rect class="key" x="680.0" y="899.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 926.6)"><rect class="key" x="752.0" y="890.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 858.0 918.0)"><rect class="key" x="824.0" y="882.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 930.0 926.6)"><rect class="key" x="896.0" y="890.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 944.6)"><rect class="key" x="968.0" y="908.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 268.0 1042.6)"><rect class="thumb" x="234.0" y="1006.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="268.0" y="1046.6">
+<tspan x="268.0" dy="0">⇧⌥2</tspan>
+</text>
+<g transform="rotate(12.0 360.0 1042.6)"><rect class="thumb" x="326.0" y="1006.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="360.0" y="1046.6">
+<tspan x="360.0" dy="0">0</tspan>
+</text>
+<g transform="rotate(24.0 450.6 1039.8)"><rect class="thumb" x="416.6" y="985.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="450.6" y="1043.8">
+<tspan x="450.6" dy="0">-</tspan>
+</text>
+<g transform="rotate(-24.0 689.4 1039.8)"><rect class="thumb" x="655.4" y="985.8" rx="6" width="68" height="108.0"/></g>
+<g transform="rotate(-12.0 780.0 1042.6)"><rect class="thumb" x="746.0" y="1006.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 872.0 1042.6)"><rect class="thumb" x="838.0" y="1006.6" rx="6" width="68" height="72.0"/></g>
+<rect class="card" x="20" y="1206" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="1238">SYM</text>
+<g transform="rotate(0.0 138.0 1368.6)"><rect class="key" x="104.0" y="1332.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="1372.6">
+<tspan x="138.0" dy="0">{</tspan>
+</text>
+<g transform="rotate(0.0 210.0 1350.6)"><rect class="key" x="176.0" y="1314.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="1354.6">
+<tspan x="210.0" dy="0">&amp;</tspan>
+</text>
+<g transform="rotate(0.0 282.0 1342.0)"><rect class="key" x="248.0" y="1306.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="1346.0">
+<tspan x="282.0" dy="0">*</tspan>
+</text>
+<g transform="rotate(0.0 354.0 1350.6)"><rect class="key" x="320.0" y="1314.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="1354.6">
+<tspan x="354.0" dy="0">(</tspan>
+</text>
+<g transform="rotate(0.0 426.0 1359.3)"><rect class="key" x="392.0" y="1323.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="1363.3">
+<tspan x="426.0" dy="0">}</tspan>
+</text>
+<g transform="rotate(0.0 714.0 1359.3)"><rect class="key" x="680.0" y="1323.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 1350.6)"><rect class="key" x="752.0" y="1314.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 858.0 1342.0)"><rect class="key" x="824.0" y="1306.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 930.0 1350.6)"><rect class="key" x="896.0" y="1314.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 1368.6)"><rect class="key" x="968.0" y="1332.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 1440.6)"><rect class="key" x="104.0" y="1404.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="1444.6">
+<tspan x="138.0" dy="0">:</tspan>
+</text>
+<g transform="rotate(0.0 210.0 1422.6)"><rect class="key" x="176.0" y="1386.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="1426.6">
+<tspan x="210.0" dy="0">$</tspan>
+</text>
+<g transform="rotate(0.0 282.0 1414.0)"><rect class="key" x="248.0" y="1378.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="1418.0">
+<tspan x="282.0" dy="0">%</tspan>
+</text>
+<g transform="rotate(0.0 354.0 1422.6)"><rect class="key" x="320.0" y="1386.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="1426.6">
+<tspan x="354.0" dy="0">^</tspan>
+</text>
+<g transform="rotate(0.0 426.0 1431.3)"><rect class="key" x="392.0" y="1395.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="1435.3">
+<tspan x="426.0" dy="0">+</tspan>
+</text>
+<g transform="rotate(0.0 714.0 1431.3)"><rect class="key" x="680.0" y="1395.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 1422.6)"><rect class="key" x="752.0" y="1386.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="1426.6">
+<tspan x="786.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 858.0 1414.0)"><rect class="key" x="824.0" y="1378.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="1418.0">
+<tspan x="858.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 930.0 1422.6)"><rect class="key" x="896.0" y="1386.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="1426.6">
+<tspan x="930.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 1440.6)"><rect class="key" x="968.0" y="1404.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="1444.6">
+<tspan x="1002.0" dy="0">↳</tspan>
+</text>
+<g transform="rotate(0.0 138.0 1512.6)"><rect class="key" x="104.0" y="1476.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="1516.6">
+<tspan x="138.0" dy="0">~</tspan>
+</text>
+<g transform="rotate(0.0 210.0 1494.6)"><rect class="key" x="176.0" y="1458.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="1498.6">
+<tspan x="210.0" dy="0">!</tspan>
+</text>
+<g transform="rotate(0.0 282.0 1486.0)"><rect class="key" x="248.0" y="1450.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="1490.0">
+<tspan x="282.0" dy="0">@</tspan>
+</text>
+<g transform="rotate(0.0 354.0 1494.6)"><rect class="key" x="320.0" y="1458.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="1498.6">
+<tspan x="354.0" dy="0">#</tspan>
+</text>
+<g transform="rotate(0.0 426.0 1503.3)"><rect class="key" x="392.0" y="1467.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="1507.3">
+<tspan x="426.0" dy="0">|</tspan>
+</text>
+<g transform="rotate(0.0 714.0 1503.3)"><rect class="key" x="680.0" y="1467.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 1494.6)"><rect class="key" x="752.0" y="1458.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 858.0 1486.0)"><rect class="key" x="824.0" y="1450.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 930.0 1494.6)"><rect class="key" x="896.0" y="1458.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 1512.6)"><rect class="key" x="968.0" y="1476.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 268.0 1610.6)"><rect class="thumb" x="234.0" y="1574.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="268.0" y="1614.6">
+<tspan x="268.0" dy="0">⇧⌥8</tspan>
+</text>
+<g transform="rotate(12.0 360.0 1610.6)"><rect class="thumb" x="326.0" y="1574.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="360.0" y="1614.6">
+<tspan x="360.0" dy="0">)</tspan>
+</text>
+<g transform="rotate(24.0 450.6 1607.8)"><rect class="thumb" x="416.6" y="1553.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="450.6" y="1611.8">
+<tspan x="450.6" dy="0">_</tspan>
+</text>
+<g transform="rotate(-24.0 689.4 1607.8)"><rect class="thumb" x="655.4" y="1553.8" rx="6" width="68" height="108.0"/></g>
+<g transform="rotate(-12.0 780.0 1610.6)"><rect class="thumb" x="746.0" y="1574.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 872.0 1610.6)"><rect class="thumb" x="838.0" y="1574.6" rx="6" width="68" height="72.0"/></g>
+<rect class="card" x="20" y="1774" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="1806">FUN</text>
+<g transform="rotate(0.0 138.0 1936.6)"><rect class="key" x="104.0" y="1900.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="1940.6">
+<tspan x="138.0" dy="0">F12</tspan>
+</text>
+<g transform="rotate(0.0 210.0 1918.6)"><rect class="key" x="176.0" y="1882.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="1922.6">
+<tspan x="210.0" dy="0">F7</tspan>
+</text>
+<g transform="rotate(0.0 282.0 1910.0)"><rect class="key" x="248.0" y="1874.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="1914.0">
+<tspan x="282.0" dy="0">F8</tspan>
+</text>
+<g transform="rotate(0.0 354.0 1918.6)"><rect class="key" x="320.0" y="1882.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="1922.6">
+<tspan x="354.0" dy="0">F9</tspan>
+</text>
+<g transform="rotate(0.0 426.0 1927.3)"><rect class="key" x="392.0" y="1891.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="1925.3">
+<tspan x="426.0" dy="0">screen_f</tspan>
+<tspan x="426.0" dy="12">ull</tspan>
+</text>
+<g transform="rotate(0.0 714.0 1927.3)"><rect class="key" x="680.0" y="1891.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="1931.3">
+<tspan x="714.0" dy="0">C_BRI_DN</tspan>
+</text>
+<g transform="rotate(0.0 786.0 1918.6)"><rect class="key" x="752.0" y="1882.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="1916.6">
+<tspan x="786.0" dy="0">C_BRI_IN</tspan>
+<tspan x="786.0" dy="12">C</tspan>
+</text>
+<g transform="rotate(0.0 858.0 1910.0)"><rect class="key" x="824.0" y="1874.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="1908.0">
+<tspan x="858.0" dy="0">smart_lo</tspan>
+<tspan x="858.0" dy="12">ck</tspan>
+</text>
+<g transform="rotate(0.0 930.0 1918.6)"><rect class="key" x="896.0" y="1882.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 1936.6)"><rect class="key" x="968.0" y="1900.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 2008.6)"><rect class="key" x="104.0" y="1972.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="2012.6">
+<tspan x="138.0" dy="0">F11</tspan>
+</text>
+<g transform="rotate(0.0 210.0 1990.6)"><rect class="key" x="176.0" y="1954.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="1994.6">
+<tspan x="210.0" dy="0">F4</tspan>
+</text>
+<g transform="rotate(0.0 282.0 1982.0)"><rect class="key" x="248.0" y="1946.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="1986.0">
+<tspan x="282.0" dy="0">F5</tspan>
+</text>
+<g transform="rotate(0.0 354.0 1990.6)"><rect class="key" x="320.0" y="1954.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="1994.6">
+<tspan x="354.0" dy="0">F6</tspan>
+</text>
+<g transform="rotate(0.0 426.0 1999.3)"><rect class="key" x="392.0" y="1963.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="1997.3">
+<tspan x="426.0" dy="0">screen_a</tspan>
+<tspan x="426.0" dy="12">rea</tspan>
+</text>
+<g transform="rotate(0.0 714.0 1999.3)"><rect class="key" x="680.0" y="1963.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="2003.3">
+<tspan x="714.0" dy="0">C_PREV</tspan>
+</text>
+<g transform="rotate(0.0 786.0 1990.6)"><rect class="key" x="752.0" y="1954.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="1994.6">
+<tspan x="786.0" dy="0">C_PP / ⌘</tspan>
+</text>
+<g transform="rotate(0.0 858.0 1982.0)"><rect class="key" x="824.0" y="1946.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="1980.0">
+<tspan x="858.0" dy="0">C_AC_STO</tspan>
+<tspan x="858.0" dy="12">P / ⌥</tspan>
+</text>
+<g transform="rotate(0.0 930.0 1990.6)"><rect class="key" x="896.0" y="1954.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="1988.6">
+<tspan x="930.0" dy="0">C_NEXT /</tspan>
+<tspan x="930.0" dy="12">⌃</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 2008.6)"><rect class="key" x="968.0" y="1972.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="2012.6">
+<tspan x="1002.0" dy="0">⇧</tspan>
+</text>
+<g transform="rotate(0.0 138.0 2080.6)"><rect class="key" x="104.0" y="2044.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="2084.6">
+<tspan x="138.0" dy="0">F10</tspan>
+</text>
+<g transform="rotate(0.0 210.0 2062.6)"><rect class="key" x="176.0" y="2026.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="2066.6">
+<tspan x="210.0" dy="0">F1</tspan>
+</text>
+<g transform="rotate(0.0 282.0 2054.0)"><rect class="key" x="248.0" y="2018.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="2058.0">
+<tspan x="282.0" dy="0">F2</tspan>
+</text>
+<g transform="rotate(0.0 354.0 2062.6)"><rect class="key" x="320.0" y="2026.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="2066.6">
+<tspan x="354.0" dy="0">F3</tspan>
+</text>
+<g transform="rotate(0.0 426.0 2071.3)"><rect class="key" x="392.0" y="2035.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="2069.3">
+<tspan x="426.0" dy="0">screen_a</tspan>
+<tspan x="426.0" dy="12">dj</tspan>
+</text>
+<g transform="rotate(0.0 714.0 2071.3)"><rect class="key" x="680.0" y="2035.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="2075.3">
+<tspan x="714.0" dy="0">C_VOL_DN</tspan>
+</text>
+<g transform="rotate(0.0 786.0 2062.6)"><rect class="key" x="752.0" y="2026.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="2066.6">
+<tspan x="786.0" dy="0">C_MUTE</tspan>
+</text>
+<g transform="rotate(0.0 858.0 2054.0)"><rect class="key" x="824.0" y="2018.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="2058.0">
+<tspan x="858.0" dy="0">C_VOL_UP</tspan>
+</text>
+<g transform="rotate(0.0 930.0 2062.6)"><rect class="key" x="896.0" y="2026.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 2080.6)"><rect class="key" x="968.0" y="2044.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 268.0 2178.6)"><rect class="thumb" x="234.0" y="2142.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="268.0" y="2176.6">
+<tspan x="268.0" dy="0">smart_em</tspan>
+<tspan x="268.0" dy="12">ojis</tspan>
+</text>
+<g transform="rotate(12.0 360.0 2178.6)"><rect class="thumb" x="326.0" y="2142.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="360.0" y="2176.6">
+<tspan x="360.0" dy="0">C_AC_SEA</tspan>
+<tspan x="360.0" dy="12">RCH</tspan>
+</text>
+<g transform="rotate(24.0 450.6 2175.8)"><rect class="thumb" x="416.6" y="2121.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="450.6" y="2167.8">
+<tspan x="450.6" dy="0">caps_log</tspan>
+<tspan x="450.6" dy="12">ic(CAPS,</tspan>
+<tspan x="450.6" dy="12">0)</tspan>
+</text>
+<g transform="rotate(-24.0 689.4 2175.8)"><rect class="thumb" x="655.4" y="2121.8" rx="6" width="68" height="108.0"/></g>
+<g transform="rotate(-12.0 780.0 2178.6)"><rect class="thumb" x="746.0" y="2142.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 872.0 2178.6)"><rect class="thumb" x="838.0" y="2142.6" rx="6" width="68" height="72.0"/></g>
+<rect class="card" x="20" y="2342" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="2374">NAV</text>
+<g transform="rotate(0.0 138.0 2504.6)"><rect class="key" x="104.0" y="2468.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="2502.6">
+<tspan x="138.0" dy="0">BACKSPAC</tspan>
+<tspan x="138.0" dy="12">E</tspan>
+</text>
+<g transform="rotate(0.0 210.0 2486.6)"><rect class="key" x="176.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="2490.6">
+<tspan x="210.0" dy="0">DELETE</tspan>
+</text>
+<g transform="rotate(0.0 282.0 2478.0)"><rect class="key" x="248.0" y="2442.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 354.0 2486.6)"><rect class="key" x="320.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="2484.6">
+<tspan x="354.0" dy="0">key_repe</tspan>
+<tspan x="354.0" dy="12">at</tspan>
+</text>
+<g transform="rotate(0.0 426.0 2495.3)"><rect class="key" x="392.0" y="2459.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 714.0 2495.3)"><rect class="key" x="680.0" y="2459.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 786.0 2486.6)"><rect class="key" x="752.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 858.0 2478.0)"><rect class="key" x="824.0" y="2442.0" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 930.0 2486.6)"><rect class="key" x="896.0" y="2450.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 1002.0 2504.6)"><rect class="key" x="968.0" y="2468.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 2576.6)"><rect class="key" x="104.0" y="2540.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="2580.6">
+<tspan x="138.0" dy="0">⇧</tspan>
+</text>
+<g transform="rotate(0.0 210.0 2558.6)"><rect class="key" x="176.0" y="2522.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="2562.6">
+<tspan x="210.0" dy="0">⌃</tspan>
+</text>
+<g transform="rotate(0.0 282.0 2550.0)"><rect class="key" x="248.0" y="2514.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="2554.0">
+<tspan x="282.0" dy="0">⌥</tspan>
+</text>
+<g transform="rotate(0.0 354.0 2558.6)"><rect class="key" x="320.0" y="2522.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="2562.6">
+<tspan x="354.0" dy="0">⌘</tspan>
+</text>
+<g transform="rotate(0.0 426.0 2567.3)"><rect class="key" x="392.0" y="2531.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="2571.3">
+<tspan x="426.0" dy="0">GLOBE</tspan>
+</text>
+<g transform="rotate(0.0 714.0 2567.3)"><rect class="key" x="680.0" y="2531.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="2571.3">
+<tspan x="714.0" dy="0">←</tspan>
+</text>
+<g transform="rotate(0.0 786.0 2558.6)"><rect class="key" x="752.0" y="2522.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="2562.6">
+<tspan x="786.0" dy="0">↓</tspan>
+</text>
+<g transform="rotate(0.0 858.0 2550.0)"><rect class="key" x="824.0" y="2514.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="2554.0">
+<tspan x="858.0" dy="0">↑</tspan>
+</text>
+<g transform="rotate(0.0 930.0 2558.6)"><rect class="key" x="896.0" y="2522.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="2562.6">
+<tspan x="930.0" dy="0">→</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 2576.6)"><rect class="key" x="968.0" y="2540.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 2648.6)"><rect class="key" x="104.0" y="2612.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="2652.6">
+<tspan x="138.0" dy="0">⌘Z</tspan>
+</text>
+<g transform="rotate(0.0 210.0 2630.6)"><rect class="key" x="176.0" y="2594.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="2634.6">
+<tspan x="210.0" dy="0">⌘X</tspan>
+</text>
+<g transform="rotate(0.0 282.0 2622.0)"><rect class="key" x="248.0" y="2586.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="2626.0">
+<tspan x="282.0" dy="0">⌘C</tspan>
+</text>
+<g transform="rotate(0.0 354.0 2630.6)"><rect class="key" x="320.0" y="2594.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="2634.6">
+<tspan x="354.0" dy="0">⌘V</tspan>
+</text>
+<g transform="rotate(0.0 426.0 2639.3)"><rect class="key" x="392.0" y="2603.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="426.0" y="2643.3">
+<tspan x="426.0" dy="0">⇧⌘Z</tspan>
+</text>
+<g transform="rotate(0.0 714.0 2639.3)"><rect class="key" x="680.0" y="2603.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="2643.3">
+<tspan x="714.0" dy="0">HOME</tspan>
+</text>
+<g transform="rotate(0.0 786.0 2630.6)"><rect class="key" x="752.0" y="2594.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="2634.6">
+<tspan x="786.0" dy="0">PG_DN</tspan>
+</text>
+<g transform="rotate(0.0 858.0 2622.0)"><rect class="key" x="824.0" y="2586.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="2626.0">
+<tspan x="858.0" dy="0">PG_UP</tspan>
+</text>
+<g transform="rotate(0.0 930.0 2630.6)"><rect class="key" x="896.0" y="2594.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="2634.6">
+<tspan x="930.0" dy="0">END</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 2648.6)"><rect class="key" x="968.0" y="2612.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="2652.6">
+<tspan x="1002.0" dy="0">INS</tspan>
+</text>
+<g transform="rotate(0.0 268.0 2746.6)"><rect class="thumb" x="234.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="268.0" y="2750.6">
+<tspan x="268.0" dy="0">TAB</tspan>
+</text>
+<g transform="rotate(12.0 360.0 2746.6)"><rect class="thumb" x="326.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="360.0" y="2750.6">
+<tspan x="360.0" dy="0">ESC</tspan>
+</text>
+<g transform="rotate(24.0 450.6 2743.8)"><rect class="thumb" x="416.6" y="2689.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="450.6" y="2747.8">
+<tspan x="450.6" dy="0">SPACE</tspan>
+</text>
+<g transform="rotate(-24.0 689.4 2743.8)"><rect class="thumb" x="655.4" y="2689.8" rx="6" width="68" height="108.0"/></g>
+<text class="label" text-anchor="middle" x="689.4" y="2747.8">
+<tspan x="689.4" dy="0">RETURN</tspan>
+</text>
+<g transform="rotate(-12.0 780.0 2746.6)"><rect class="thumb" x="746.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="780.0" y="2744.6">
+<tspan x="780.0" dy="0">BACKSPAC</tspan>
+<tspan x="780.0" dy="12">E</tspan>
+</text>
+<g transform="rotate(0.0 872.0 2746.6)"><rect class="thumb" x="838.0" y="2710.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="872.0" y="2750.6">
+<tspan x="872.0" dy="0">DELETE</tspan>
+</text>
+<rect class="card" x="20" y="2910" rx="14" width="1100" height="550"/>
+<text class="layer" x="44" y="2942">SYS</text>
+<g transform="rotate(0.0 138.0 3072.6)"><rect class="key" x="104.0" y="3036.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="3070.6">
+<tspan x="138.0" dy="0">bootload</tspan>
+<tspan x="138.0" dy="12">er</tspan>
+</text>
+<g transform="rotate(0.0 210.0 3054.6)"><rect class="key" x="176.0" y="3018.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="3058.6">
+<tspan x="210.0" dy="0">glyph</tspan>
+</text>
+<g transform="rotate(0.0 282.0 3046.0)"><rect class="key" x="248.0" y="3010.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="3044.0">
+<tspan x="282.0" dy="0">smart_sh</tspan>
+<tspan x="282.0" dy="12">ift</tspan>
+</text>
+<g transform="rotate(0.0 354.0 3054.6)"><rect class="key" x="320.0" y="3018.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 426.0 3063.3)"><rect class="key" x="392.0" y="3027.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 714.0 3063.3)"><rect class="key" x="680.0" y="3027.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="3067.3">
+<tspan x="714.0" dy="0">RGB_EFR</tspan>
+</text>
+<g transform="rotate(0.0 786.0 3054.6)"><rect class="key" x="752.0" y="3018.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="3058.6">
+<tspan x="786.0" dy="0">RGB_EFF</tspan>
+</text>
+<g transform="rotate(0.0 858.0 3046.0)"><rect class="key" x="824.0" y="3010.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="3050.0">
+<tspan x="858.0" dy="0">RGB_SPD</tspan>
+</text>
+<g transform="rotate(0.0 930.0 3054.6)"><rect class="key" x="896.0" y="3018.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="3058.6">
+<tspan x="930.0" dy="0">RGB_SPI</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 3072.6)"><rect class="key" x="968.0" y="3036.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="3070.6">
+<tspan x="1002.0" dy="0">bootload</tspan>
+<tspan x="1002.0" dy="12">er</tspan>
+</text>
+<g transform="rotate(0.0 138.0 3144.6)"><rect class="key" x="104.0" y="3108.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="3142.6">
+<tspan x="138.0" dy="0">studio_u</tspan>
+<tspan x="138.0" dy="12">nlock</tspan>
+</text>
+<g transform="rotate(0.0 210.0 3126.6)"><rect class="key" x="176.0" y="3090.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="3130.6">
+<tspan x="210.0" dy="0">BT_SEL 3</tspan>
+</text>
+<g transform="rotate(0.0 282.0 3118.0)"><rect class="key" x="248.0" y="3082.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="3122.0">
+<tspan x="282.0" dy="0">BT_SEL 4</tspan>
+</text>
+<g transform="rotate(0.0 354.0 3126.6)"><rect class="key" x="320.0" y="3090.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="3130.6">
+<tspan x="354.0" dy="0">BT_CLR</tspan>
+</text>
+<g transform="rotate(0.0 426.0 3135.3)"><rect class="key" x="392.0" y="3099.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 714.0 3135.3)"><rect class="key" x="680.0" y="3099.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="3139.3">
+<tspan x="714.0" dy="0">RGB_BRD</tspan>
+</text>
+<g transform="rotate(0.0 786.0 3126.6)"><rect class="key" x="752.0" y="3090.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="3130.6">
+<tspan x="786.0" dy="0">RGB_BRI</tspan>
+</text>
+<g transform="rotate(0.0 858.0 3118.0)"><rect class="key" x="824.0" y="3082.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="3122.0">
+<tspan x="858.0" dy="0">RGB_SAD</tspan>
+</text>
+<g transform="rotate(0.0 930.0 3126.6)"><rect class="key" x="896.0" y="3090.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="3130.6">
+<tspan x="930.0" dy="0">RGB_SAI</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 3144.6)"><rect class="key" x="968.0" y="3108.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 138.0 3216.6)"><rect class="key" x="104.0" y="3180.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="138.0" y="3214.6">
+<tspan x="138.0" dy="0">sys_rese</tspan>
+<tspan x="138.0" dy="12">t</tspan>
+</text>
+<g transform="rotate(0.0 210.0 3198.6)"><rect class="key" x="176.0" y="3162.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="210.0" y="3202.6">
+<tspan x="210.0" dy="0">BT_SEL 0</tspan>
+</text>
+<g transform="rotate(0.0 282.0 3190.0)"><rect class="key" x="248.0" y="3154.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="282.0" y="3194.0">
+<tspan x="282.0" dy="0">BT_SEL 1</tspan>
+</text>
+<g transform="rotate(0.0 354.0 3198.6)"><rect class="key" x="320.0" y="3162.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="354.0" y="3202.6">
+<tspan x="354.0" dy="0">BT_SEL 2</tspan>
+</text>
+<g transform="rotate(0.0 426.0 3207.3)"><rect class="key" x="392.0" y="3171.3" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 714.0 3207.3)"><rect class="key" x="680.0" y="3171.3" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="714.0" y="3211.3">
+<tspan x="714.0" dy="0">RGB_HUD</tspan>
+</text>
+<g transform="rotate(0.0 786.0 3198.6)"><rect class="key" x="752.0" y="3162.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="786.0" y="3202.6">
+<tspan x="786.0" dy="0">RGB_HUI</tspan>
+</text>
+<g transform="rotate(0.0 858.0 3190.0)"><rect class="key" x="824.0" y="3154.0" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="858.0" y="3182.0">
+<tspan x="858.0" dy="0">RGB_COLO</tspan>
+<tspan x="858.0" dy="12">R_HSB(0,</tspan>
+<tspan x="858.0" dy="12">0,100)</tspan>
+</text>
+<g transform="rotate(0.0 930.0 3198.6)"><rect class="key" x="896.0" y="3162.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="930.0" y="3202.6">
+<tspan x="930.0" dy="0">RGB_TOG</tspan>
+</text>
+<g transform="rotate(0.0 1002.0 3216.6)"><rect class="key" x="968.0" y="3180.6" rx="6" width="68" height="72.0"/></g>
+<text class="label" text-anchor="middle" x="1002.0" y="3214.6">
+<tspan x="1002.0" dy="0">sys_rese</tspan>
+<tspan x="1002.0" dy="12">t</tspan>
+</text>
+<g transform="rotate(0.0 268.0 3314.6)"><rect class="thumb" x="234.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(12.0 360.0 3314.6)"><rect class="thumb" x="326.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(24.0 450.6 3311.8)"><rect class="thumb" x="416.6" y="3257.8" rx="6" width="68" height="108.0"/></g>
+<g transform="rotate(-24.0 689.4 3311.8)"><rect class="thumb" x="655.4" y="3257.8" rx="6" width="68" height="108.0"/></g>
+<g transform="rotate(-12.0 780.0 3314.6)"><rect class="thumb" x="746.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
+<g transform="rotate(0.0 872.0 3314.6)"><rect class="thumb" x="838.0" y="3278.6" rx="6" width="68" height="72.0"/></g>
+<text class="legend" x="44" y="3516">⇧ Shift · ⌃ Control · ⌥ Option · ⌘ Command · ↳ transparent · blank = unbound.</text>
+</svg>

@@ -15,6 +15,18 @@ Both firmwares are based on a custom **QWERTY version of [Miryoku](https://githu
 
 Each branch retains its own board definitions, physical layout, editor metadata, and firmware targets. Use the firmware for your exact keyboard and half. Both builds use ZMK `v0.3`.
 
+## Keymaps
+
+Each layer is drawn on its keyboard's staggered key geometry, including its thumb cluster. BASE, NUM, and SYM show keyboard legends; other layers retain source aliases, with modifiers displayed as glyphs (`⇧`, `⌃`, `⌥`, `⌘`). BASE dual-action keys show `tap / hold`. The `&lt` thumb bindings activate NUM (`1`), SYM (`2`), FUN (`3`), and NAV (`4`). `↳` means transparent (use the binding from BASE), and a blank key has no binding on that layer. GUI labels use macOS symbols; **GLYPH** mode swaps GUI and Ctrl for Windows.
+
+### Corne · 5-column
+
+![Corne 5-column keymap across BASE, NUM, SYM, FUN, NAV, and SYS layers](images/corne-keymap-layers.svg)
+
+### Piantor · 5-column
+
+![Piantor 5-column keymap across BASE, NUM, SYM, FUN, NAV, and SYS layers](images/piantor-keymap-layers.svg)
+
 ## Shared features
 
 ### macOS / Windows mode
