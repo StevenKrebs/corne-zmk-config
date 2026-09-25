@@ -136,7 +136,7 @@
 <g transform="rotate(5.0 415.2 458.0)"><rect class="thumb" x="381.2" y="422.0" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="415.2" y="456.0">
 <tspan x="415.2" dy="0">ESC /</tspan>
-<tspan x="415.2" dy="12">⌥⌃⌘</tspan>
+<tspan x="415.2" dy="12">⌃⌥⌘</tspan>
 </text>
 <g transform="rotate(15.0 512.4 472.4)"><rect class="thumb" x="478.4" y="436.4" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="512.4" y="470.4">
