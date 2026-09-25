@@ -52,10 +52,10 @@ These special shortcuts send their complete chord for the selected OS mode:
 | `screen_full` | FUN + T | Shift + Command + 3 | Windows + Print Screen |
 | `screen_area` | FUN + G | Shift + Command + 4 | Alt + Print Screen |
 | `screen_adj` | FUN + B | Shift + Command + 5 | Windows + Shift + S |
-| `smart_emojis` | FUN, Tab thumb position | Ctrl + Command + Space | Windows + period |
-| `smart_lock` | FUN + I | Ctrl + Command + Q | Windows + L |
-| Smart Tab hold | BASE / NAV, Tab thumb position | Shift + Command | Shift + Ctrl |
-| Smart Esc hold | BASE / NAV, Esc thumb position | Ctrl + Alt + Command | Ctrl + Alt |
+| `emojis` | FUN, Tab thumb position | Ctrl + Command + Space | Windows + period |
+| `screen_lock` | FUN + I | Ctrl + Command + Q | Windows + L |
+| `meta` hold (Tab tap) | BASE / NAV, Tab thumb position | Shift + Command | Shift + Ctrl |
+| `hyper` hold (Esc tap) | BASE / NAV, Esc thumb position | Ctrl + Alt + Command | Ctrl + Alt |
 
 `screen_area` captures the active window on Windows; `screen_adj` opens Windows region capture. These behaviors retain the selected chord until release and use their mode-specific mapping rather than the general Ctrl/GUI swap for ordinary chords.
 
@@ -64,7 +64,7 @@ These special shortcuts send their complete chord for the selected OS mode:
 - Six layers: **BASE, NUM, SYM, FUN, NAV, SYS**, covering typing, numbers, symbols, function/media keys, navigation, and keyboard controls.
 - Bilateral home-row hold-tap modifiers (THRM), based on [urob's timeless home-row mods](https://github.com/urob/zmk-config): balanced flavor, 280 ms tapping term, 175 ms quick tap, 150 ms prior-idle requirement, and opposite-hand/thumb hold triggers evaluated on release.
 - Thumb taps provide Tab, Esc, Space, Return, Backspace, and Delete. Their holds provide modifier chords or layer access.
-- Smart Tab taps Tab; holding it sends Shift + Command on macOS and Shift + Ctrl on Windows. Smart Esc taps Escape; holding it sends Ctrl + Alt + Command on macOS and Ctrl + Alt on Windows.
+- `meta` taps Tab; holding it sends Shift + Command on macOS and Shift + Ctrl on Windows. `hyper` taps Escape; holding it sends Ctrl + Alt + Command on macOS and Ctrl + Alt on Windows.
 - Thumb combos toggle NAV (positions 32 + 33) and SYS (31 + 34). Key positions are zero-based.
 - **Smart Shift** supports sentence capitalization, punctuation handling, backspace state recovery, and a manual Shift opt-out. Toggle it from SYS; its enabled state is saved on the central half and restored after power cycles.
 - **Caps Logic** taps toggle Caps Word; holding sends Caps Lock. The widget tracks logical Caps Word state and locally inferred Caps Lock activity.

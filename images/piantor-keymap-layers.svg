@@ -399,7 +399,7 @@
 </text>
 <g transform="rotate(0.0 876.0 1910.0)"><rect class="key" x="842.0" y="1874.0" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="876.0" y="1908.0">
-<tspan x="876.0" dy="0">smart_lo</tspan>
+<tspan x="876.0" dy="0">screen_l</tspan>
 <tspan x="876.0" dy="12">ck</tspan>
 </text>
 <g transform="rotate(0.0 948.0 1928.0)"><rect class="key" x="914.0" y="1892.0" rx="6" width="68" height="72.0"/></g>
@@ -484,7 +484,7 @@
 <g transform="rotate(0.0 1020.0 2126.0)"><rect class="key" x="986.0" y="2090.0" rx="6" width="68" height="72.0"/></g>
 <g transform="rotate(-5.0 321.6 2169.2)"><rect class="thumb" x="287.6" y="2133.2" rx="6" width="68" height="72.0"/></g>
 <text class="label" text-anchor="middle" x="321.6" y="2167.2">
-<tspan x="321.6" dy="0">smart_em</tspan>
+<tspan x="321.6" dy="0">emojis</tspan>
 <tspan x="321.6" dy="12">ojis</tspan>
 </text>
 <g transform="rotate(5.0 415.2 2162.0)"><rect class="thumb" x="381.2" y="2126.0" rx="6" width="68" height="72.0"/></g>
